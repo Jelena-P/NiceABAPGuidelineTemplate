@@ -13,9 +13,11 @@ Are you tired of 100+ pages of ABAP guideline documents repeating same old adage
 
 Total number of pages while using this template shall not exceed 10.
 
+See this blog post for more information: https://blogs.sap.com/2021/04/27/are-your-abap-guidelines-misguided/
 
 **Community and SAP guideline examples**
 
 DSAG Best Practice Guidelines for Development: https://www.dsag.de/sites/default/files/2020-12/dsag_recommendation_abap_development.pdf 
 
 Clean ABAP: https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md 
+
