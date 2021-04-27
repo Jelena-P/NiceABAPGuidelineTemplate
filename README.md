@@ -2,6 +2,7 @@
 
 Are you tired of 100+ pages of ABAP guideline documents repeating same old adage? Say no more, fam! I present to you...
 
+
 **Jelena's Nice and Simple Corporate ABAP Guideline Template**
 
 1.	Introduction (1-2 pages). Outline your company’s strategy, principles, what your guidelines are meant to achieve and how they add value.  
@@ -12,7 +13,9 @@ Are you tired of 100+ pages of ABAP guideline documents repeating same old adage
 
 Total number of pages while using this template shall not exceed 10.
 
+
 **Community and SAP guideline examples**
 
 DSAG Best Practice Guidelines for Development: https://www.dsag.de/sites/default/files/2020-12/dsag_recommendation_abap_development.pdf 
+
 Clean ABAP: https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md 
